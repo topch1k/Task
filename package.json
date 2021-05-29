@@ -1,0 +1,21 @@
+{
+  "name": "Task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ganache-cli": "ganache-cli -f https://mainnet.infura.io/v3/78431d0db9744f71bdd420786e7c365a --networkId 5777 -u 0xF9930a9d65cc57d024CF9149AE67e66c7a77E167" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "@uniswap/sdk": "^3.0.3",
+    "bignumber.js": "^9.0.1"
+  }
+}
