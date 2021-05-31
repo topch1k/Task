@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ganache-cli": "ganache-cli -f https://mainnet.infura.io/v3/78431d0db9744f71bdd420786e7c365a --networkId 5777 -u 0xF9930a9d65cc57d024CF9149AE67e66c7a77E167" 
+    "ganache-cli": "ganache-cli -f https://mainnet.infura.io/v3/78431d0db9744f71bdd420786e7c365a --networkId 5777 -u 0xd1669ac6044269b59fa12c5822439f609ca54f41" 
   },
   "keywords": [],
   "author": "",

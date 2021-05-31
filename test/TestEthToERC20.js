@@ -7,7 +7,6 @@ const daiAbi = require('../abi.js');
 
 contract('Router', (accounts) => {
     let UniswapRouter;
-    let UniswapFactory; 
     let clientAddress = accounts[0];
     let daiAddress = "0x6b175474e89094c44da98b954eedeac495271d0f";
     let Router02Address = "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D";
